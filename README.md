@@ -1,4 +1,4 @@
-#New Year Countdown [App](https://tudorbejinari.github.io/newyear-countdown/)
+# New Year Countdown [App](https://tudorbejinari.github.io/newyear-countdown/)
 ### Landing page that counts down from the current date to the next new year
 
 ## Project Specifications
